@@ -5,11 +5,12 @@ Languages planned:
 - [x] Rust
 - [x] Haskell
 - [x] Zig
+- [x] Fortran
 - [ ] Nim
 - [ ] C++
 - [ ] C
 - [ ] Julia
-- [ ] Kotlin
+- [x] Kotlin
 - [ ] Swift
 - [ ] Erlang
 - [ ] Bash
