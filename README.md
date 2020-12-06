@@ -8,7 +8,7 @@ Languages planned:
 - [x] Fortran
 - [ ] Nim
 - [ ] C++
-- [ ] C
+- [x] C
 - [ ] Julia
 - [x] Kotlin
 - [ ] Swift
