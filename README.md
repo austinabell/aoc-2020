@@ -6,7 +6,7 @@ Languages planned:
 - [x] Haskell
 - [x] Zig
 - [x] Fortran
-- [ ] Nim
+- [x] Nim
 - [ ] C++
 - [x] C
 - [ ] Julia
