@@ -9,7 +9,7 @@ Languages planned:
 - [x] Nim
 - [ ] C++
 - [x] C
-- [ ] Julia
+- [x] Julia
 - [x] Kotlin
 - [ ] Swift
 - [ ] Erlang
