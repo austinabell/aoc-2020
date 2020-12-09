@@ -13,7 +13,7 @@ Languages planned:
 - [x] Kotlin
 - [ ] Swift
 - [ ] Erlang
-- [ ] Bash
+- [x] Bash
 - [ ] Go
 - [ ] Dart
 - [ ] TypeScript
