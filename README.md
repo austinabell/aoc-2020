@@ -15,7 +15,7 @@ Languages planned:
 - [ ] Erlang
 - [x] Bash
 - [ ] Go
-- [ ] Dart
+- [x] Dart
 - [ ] TypeScript
 - [ ] Java (Obviously to transition to enterprise dev)
 - [ ] JavaScript
