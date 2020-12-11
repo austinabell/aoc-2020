@@ -22,7 +22,7 @@ Languages planned:
 - [ ] Python
 - [ ] Cobol
 - [ ] C#
-- [ ] Ruby
+- [x] Ruby
 - [ ] Wasm (I'll count it as one)
 - [ ] Scala
 - [ ] PHP
