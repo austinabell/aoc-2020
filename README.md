@@ -20,7 +20,7 @@ Languages planned:
 - [ ] Java (Obviously to transition to enterprise dev)
 - [ ] JavaScript
 - [ ] Python
-- [ ] Cobol
+- [x] Cobol
 - [ ] C#
 - [x] Ruby
 - [ ] Wasm (I'll count it as one)
