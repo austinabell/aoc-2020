@@ -26,5 +26,6 @@ Languages planned:
 - [ ] Wasm (I'll count it as one)
 - [ ] Scala
 - [ ] PHP
+- [x] Racket
 
 ...idk give me ideas

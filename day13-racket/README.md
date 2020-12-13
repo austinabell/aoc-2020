@@ -1,0 +1,3 @@
+```bash
+racket main.rkt
+```
