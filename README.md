@@ -7,7 +7,7 @@ Languages planned:
 - [x] Zig
 - [x] Fortran
 - [x] Nim
-- [ ] C++
+- [x] C++
 - [x] C
 - [x] Julia
 - [x] Kotlin
