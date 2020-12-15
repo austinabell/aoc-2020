@@ -1,0 +1,3 @@
+```
+php -f main.php
+```
