@@ -16,7 +16,7 @@ Languages planned:
 - [x] Bash
 - [ ] Go
 - [x] Dart
-- [ ] TypeScript
+- [x] TypeScript
 - [x] Java
 - [ ] JavaScript
 - [ ] Python
