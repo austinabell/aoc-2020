@@ -17,7 +17,7 @@ Languages planned:
 - [ ] Go
 - [x] Dart
 - [ ] TypeScript
-- [ ] Java (Obviously to transition to enterprise dev)
+- [x] Java
 - [ ] JavaScript
 - [ ] Python
 - [x] Cobol
