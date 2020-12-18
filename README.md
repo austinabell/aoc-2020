@@ -23,7 +23,7 @@ Languages planned:
 - [x] Cobol
 - [ ] C#
 - [x] Ruby
-- [ ] Wasm (I'll count it as one)
+- [x] Wasm (I'll count it as one)
 - [ ] Scala
 - [x] PHP
 - [x] Racket
