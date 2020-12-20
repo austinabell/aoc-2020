@@ -18,7 +18,7 @@ Languages planned:
 - [x] Dart
 - [x] TypeScript
 - [x] Java
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] Python
 - [x] Cobol
 - [ ] C#
