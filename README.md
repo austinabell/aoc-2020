@@ -21,7 +21,7 @@ Languages planned:
 - [x] JavaScript
 - [ ] Python
 - [x] Cobol
-- [ ] C#
+- [x] C#
 - [x] Ruby
 - [x] Wasm (I'll count it as one)
 - [ ] Scala
