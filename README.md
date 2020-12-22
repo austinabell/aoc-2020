@@ -27,5 +27,6 @@ Languages planned:
 - [ ] Scala
 - [x] PHP
 - [x] Racket
+- [x] Perl
 
 ...idk give me ideas
