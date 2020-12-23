@@ -28,5 +28,6 @@ Languages planned:
 - [x] PHP
 - [x] Racket
 - [x] Perl
+- [x] Elixir
 
 ...idk give me ideas
