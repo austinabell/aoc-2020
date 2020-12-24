@@ -14,7 +14,7 @@ Languages planned:
 - [ ] Swift
 - [ ] Erlang
 - [x] Bash
-- [ ] Go
+- [x] Go
 - [x] Dart
 - [x] TypeScript
 - [x] Java
