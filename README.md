@@ -11,7 +11,7 @@ Languages planned:
 - [x] C
 - [x] Julia
 - [x] Kotlin
-- [ ] Swift
+- [x] Swift
 - [ ] Erlang
 - [x] Bash
 - [x] Go

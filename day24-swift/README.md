@@ -1,0 +1,3 @@
+```
+swiftc main.swift && ./main
+```
