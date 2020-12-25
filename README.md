@@ -29,5 +29,6 @@ Languages planned:
 - [x] Racket
 - [x] Perl
 - [x] Elixir
+- [x] Lua
 
 ...idk give me ideas
